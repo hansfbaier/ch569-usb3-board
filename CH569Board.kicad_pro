@@ -511,7 +511,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "CH569Board.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
