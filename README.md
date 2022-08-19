@@ -1,5 +1,8 @@
-# ch569-usb3-board
+# CH569 USB3 Super Speed Board
 USB3 super speed development board useful as FPGA expansion
+based on the WCH-Tech CH569 chip.
+It should also be possible to substitute the CH569 with a CH565 chip,
+without further modifications.
 
 ### Status
 * rev0 tested and working
