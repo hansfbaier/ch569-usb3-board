@@ -12,6 +12,8 @@ https://github.com/orgs/hydrausb3/repositories
 ### Status
 * rev0 tested and working
 * rev1 tested and working
+NOTE: Both rev0 and rev1 have shown spurious transmission errors in USB3 stress tests.
+Do not use for high performance duty.
 
 ![image](https://user-images.githubusercontent.com/148607/180585794-81c4b214-c2ee-4348-ae45-e5febc3b7dbf.png)
 ![image](https://user-images.githubusercontent.com/148607/180585772-acf472a8-e9b3-48a1-aec5-835add13c269.png)
