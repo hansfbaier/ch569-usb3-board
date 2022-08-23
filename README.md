@@ -13,6 +13,8 @@ https://github.com/orgs/hydrausb3/repositories
 * rev0 tested and working
 * rev1 tested and working
 * rev2 is currently being manufactured
+
+
 NOTE: Both rev0 and rev1 have shown spurious transmission errors in USB3 stress tests.
 Do not use for high performance duty. Adding a 100nF decoupling capacitor to the
 3V3 pin of the crystal oscillator seemed to improve the situation significantly.
