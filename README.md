@@ -12,7 +12,7 @@ https://github.com/orgs/hydrausb3/repositories
 ### Status
 * rev0 tested and working
 * rev1 tested and working
-* rev2 is currently being manufactured
+* rev2 tested and working. Passes stress test. Recommended!
 
 
 NOTE: Both rev0 and rev1 have shown spurious transmission errors in USB3 stress tests.
